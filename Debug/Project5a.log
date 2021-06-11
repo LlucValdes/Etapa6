@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(72,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(78,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(78,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(79,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(85,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(85,18): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(87,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(93,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(116,65): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(116,23): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(117,65): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(117,23): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(124,63): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(124,24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(143,66): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(143,25): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(167,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(176,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(387,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(408,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(411,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(415,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(418,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(422,11): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(425,12): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(438,23): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lenovo\source\repos\Project5a - copia\main.cpp(447,23): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  Project5a.vcxproj -> C:\Users\Lenovo\source\repos\Project5a - copia\Debug\Project5a.exe
